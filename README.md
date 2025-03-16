@@ -42,9 +42,3 @@ Provide data-driven recommendations to assist tourism operators in optimizing at
 
 For inquiries or collaboration, feel free to contact our project team.
 
-## 授權條款 (License)
-
-本專案以 MIT License 授權開放使用。
-
-This project is licensed under the MIT License.
-
