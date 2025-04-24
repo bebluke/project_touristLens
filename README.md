@@ -113,8 +113,9 @@
 
 ## 📄 專案簡報 (Project Presentation)
 
-如需了解更完整的專案背景、深入的數據分析方法、技術實現細節、成果展示及未來展望，請參閱完整的專案簡報：
-[Link to presentation](https://reurl.cc/W0A8M7)
+如需了解更完整的專案背景、深入的數據分析方法、技術實現細節、成果展示及未來展望，請參閱完整的專案簡報直播連結：  
+[Link to presentation](https://www.youtube.com/live/vbfvDcfvdTw?si=LmvlilcdKuha-fKw&t=2026)
+
 
 ## 👋 聯絡我 (Contact Me)
 
